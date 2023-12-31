@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entitties.Database", "Entitties.Database\Entitties.Database.csproj", "{1BAA5148-2755-4605-9CE2-7F8EFFB05F0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entitties.Domain", "Entitties.Domain\Entitties.Domain.csproj", "{8537A3C4-5CF6-4F5C-9A35-37790BE95251}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BAA5148-2755-4605-9CE2-7F8EFFB05F0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BAA5148-2755-4605-9CE2-7F8EFFB05F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BAA5148-2755-4605-9CE2-7F8EFFB05F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BAA5148-2755-4605-9CE2-7F8EFFB05F0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8537A3C4-5CF6-4F5C-9A35-37790BE95251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8537A3C4-5CF6-4F5C-9A35-37790BE95251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8537A3C4-5CF6-4F5C-9A35-37790BE95251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8537A3C4-5CF6-4F5C-9A35-37790BE95251}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal

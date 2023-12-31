@@ -1,0 +1,5 @@
+{
+  "NetworkDb": {
+    "ConnectionString": "User ID=postgres;Password=DevBox123;Server=localhost;Port=2000;Database=network_db;"
+  }
+}
