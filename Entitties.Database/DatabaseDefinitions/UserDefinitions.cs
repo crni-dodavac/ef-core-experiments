@@ -16,7 +16,9 @@ public static class UserDefinitions
 
             userModelBuilder
                 .HasKey(PrimaryKey);
-
+            
+            //lesson 1: values in complex properties can be indexed only if they are the only value in the model,
+            //          and even that is only via conversion methods.
             userModelBuilder
                 .Property(u => u.Id)
                 .HasConversion(
